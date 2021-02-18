@@ -1,4 +1,3 @@
 .idea/
 django_env/
-photobyanni_db.sqlite3/
 *.pyc
